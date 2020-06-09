@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "description": "a",
+    "owner": "PK",
+    "title": "IKCTM"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TM",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "KP"
+  }
+}
